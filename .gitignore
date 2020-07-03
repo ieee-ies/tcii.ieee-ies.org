@@ -27,3 +27,6 @@ $RECYCLE.BIN/
 
 # website
 config.conf
+
+# TC II
+.idea/*
